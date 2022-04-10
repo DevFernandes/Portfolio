@@ -2,4 +2,4 @@
 
 🧠 Desenvolvido com muito carinho e dedicação
 
-- 🤖 Skills: HTML, CSS, JAVASCRIPT E BOOTSTRAP 5
+- 🤖 Skills : HTML, CSS, JAVASCRIPT E BOOTSTRAP 5
